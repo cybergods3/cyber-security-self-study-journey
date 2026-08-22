@@ -1,4 +1,4 @@
-# Hi, I’m Gods
+# Hi, I’m Godsfavour
 
 Welcome to my GitHub.
 
@@ -36,7 +36,7 @@ Then I’m someone you can count on. I believe cybersecurity is not just about t
 Every repository here represents effort, curiosity, and progress. I’m building my foundation carefully and honestly, and I’m excited about where this journey will lead.
 
 ## Let’s connect
-If you’re interested in collaboration, mentorship, or opportunities related to cybersecurity, feel free to reach out.  
+If you’re interested in collaboration, or opportunities related to cybersecurity, feel free to reach out.  
 I’m always open to learning and growing with others.
 
 Thanks for visiting.
